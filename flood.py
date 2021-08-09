@@ -4,7 +4,7 @@ import random
 import socket
 import threading
 
-print("--> C0de By Lee0n123 <--")
+print("--> C0de By ZR0NZ <--")
 print("#-- TCP/UDP FLOOD --#")
 ip = str(input(" Host/Ip:"))
 port = int(input(" Port:"))
